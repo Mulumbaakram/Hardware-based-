@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title></title>
+<!-- #EndEditable -->
+<link href="styles/style3.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+}
+.auto-style2 {
+	margin-top: 72px;
+}
+</style>
+</head>
+
+<body>
+
+<div id="container">
+	<div id="masthead">
+		<h1 class="auto-style1">GIVE AND TAKE</h1>
+		<img alt="" height="480" src="IMG_20211003_183335_753.jpg" width="350" /><p style="height: 516px">office (+256) 
+		077-2405122<br />
+		<img alt="" height="342" src="IMG_20211003_183346_122.jpg" width="340"
+		<br class="auto-style2" />
+		</p>
+		
+	</div>
+	<!-- End Masthead -->
+	<!-- Begin Navigation -->
+	<div id="navigation">
+		<ul>
+			<li><a href="default.html">Home</a></li>
+			<li><a href="about/default.html">About</a></li>
+			<li><a href="news/default.html">News</a></li>
+			<li><a href="products/default.html">Products</a></li>
+			<li><a href="services/default.html">Services</a></li>
+			<li><a href="calendar/default.html">Calendar</a></li>
+			<li><a href="faq/contact/default.html">Contact</a></li>
+		</ul>
+	</div>
+	<!-- End Navigation -->
+	<!-- Begin Page Content -->
+	<div id="page_content">
+		<!-- Begin Left Column -->
+		<div id="column_l">
+			<!-- #BeginEditable "content" -->
+			<h2>MISSION</h2>
+			<p>TO MAKE ME AND YOU HAVE A GOOD LIFE</p>
+			<!-- #EndEditable --></div>
+		<!-- End Left Column -->
+		<!-- Begin Right Column -->
+		<div id="column_r">
+			<!-- #BeginEditable "sidebar" -->
+			<h3>AIM</h3>
+			<p>TO MAKE A BETTER UGANDA</p>
+			<p>TO BUILD A BETTER UGANDA</p>
+			<!-- #EndEditable --></div>
+		<!-- End Right Column --></div>
+	<!-- End Page Content -->
+	<!-- Begin Footer -->
+	<!-- End Footer --></div>
+<!-- End Container -->
+
+</body>
+
+</html>
